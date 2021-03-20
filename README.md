@@ -4,10 +4,10 @@ Quick Page i put together to get a bit more practice with materialize and play a
 
 🔧 Built with
 
-VS Code
-Javascript
-CSS
-HTML
-Materialize
+*VS Code
+*Javascript
+*CSS
+*HTML
+*Materialize
 
 ![Alt text](img/readmepicture.PNG?raw=true "Optional Title")
