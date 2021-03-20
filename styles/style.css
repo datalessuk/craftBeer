@@ -11,6 +11,23 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+nav{
+    background-color: transparent !important;
+    box-shadow: none;
+    margin-top: 25px;
+}
+.nav-wrapper img{
+    height: 30px;
+    width: 30px;
     
+}
+.nav-wrapper a{
     
+    text-shadow: 0px 0px 3px #000;
+}
+.container{
+   margin: 0 auto;
+   text-align: center;
+
 }
